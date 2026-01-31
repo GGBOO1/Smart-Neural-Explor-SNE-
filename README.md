@@ -125,10 +125,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - Built on PyTorch for efficient neural network implementation
 - Incorporates ideas from curiosity-driven and attention-based reinforcement learning
 
-## Authors
-
-- Your Name - [GitHub Profile](https://github.com/yourusername)
-
 ## Citation
 
 If you use this project in your research, please consider citing it:
